@@ -1,0 +1,23 @@
+/* You can add global styles to this file, and also import other style files */
+body{
+    background-color: rgb(69, 50, 78)!important;
+    color: rgb(206, 152, 190)!important;
+}
+table td, .table th {
+    padding: .35rem!important;
+    border-top: black!important;
+}
+.table-bordered td, .table-bordered th {
+    border:  #dee2e6!important;
+}
+.table-bordered {
+    border: #dee2e6!important;
+    color: rgb(206, 152, 90)!important;
+}
+.material-icons{
+    color:white;
+}
+.btn-primary{
+    background-color: darkslategrey!important;
+    border-color: darkslategrey!important;
+}
